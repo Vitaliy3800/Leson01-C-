@@ -1,0 +1,16 @@
+/Users/vitaliy/Desktop/leson01 C#/Prog002/bin/Debug/net6.0/Prog002
+/Users/vitaliy/Desktop/leson01 C#/Prog002/bin/Debug/net6.0/Prog002.deps.json
+/Users/vitaliy/Desktop/leson01 C#/Prog002/bin/Debug/net6.0/Prog002.runtimeconfig.json
+/Users/vitaliy/Desktop/leson01 C#/Prog002/bin/Debug/net6.0/Prog002.dll
+/Users/vitaliy/Desktop/leson01 C#/Prog002/bin/Debug/net6.0/ref/Prog002.dll
+/Users/vitaliy/Desktop/leson01 C#/Prog002/bin/Debug/net6.0/Prog002.pdb
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.GlobalUsings.g.cs
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.csproj.AssemblyReference.cache
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.AssemblyInfoInputs.cache
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.AssemblyInfo.cs
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.csproj.CoreCompileInputs.cache
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.dll
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/ref/Prog002.dll
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.pdb
+/Users/vitaliy/Desktop/leson01 C#/Prog002/obj/Debug/net6.0/Prog002.genruntimeconfig.cache
